@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "31hAzVGqeaA=",
+  "dgSpecHash": "QeaqUhDulJA=",
   "success": true,
   "projectFilePath": "D:\\kafka-demo\\KafkaDemo\\KafkaConsumer\\KafkaConsumer.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\confluent.kafka\\2.9.0\\confluent.kafka.2.9.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\librdkafka.redist\\2.8.0\\librdkafka.redist.2.8.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\swashbuckle.aspnetcore\\6.6.2\\swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
